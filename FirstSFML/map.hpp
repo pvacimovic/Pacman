@@ -27,6 +27,8 @@ class Map
     sf::RectangleShape wall;
     //LilBall ball;
     
+    // make a space for the score board!!
+    
     // matrix for the map
     int mat[25][33] = {
         
